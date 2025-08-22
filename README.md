@@ -2,8 +2,7 @@
 
 👩🏽‍💻 PhD Candidate in ML applied to Computational Biology  &nbsp;&nbsp;|&nbsp;&nbsp;  🎓Graduated in Physics
 
-🌐 **[Check out my webpage]([https://your-website.com](https://uxiaveleiro.github.io/))** for more details about my work!
-
+🌐 **[Check out my webpage](https://uxiaveleiro.github.io/)** for more details about my work!
 
 ---
 
