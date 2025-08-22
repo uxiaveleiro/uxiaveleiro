@@ -12,7 +12,7 @@
 
   - Benchmark of inductive and transductive node embedding models for drug–target interaction prediction.
   - Generalization studies that revealed data leakage issues of transductive models that employed node2vec.
-  - Design of a novel negative subsampling technique. 
+  - Design of a novel (biologically-drive) negative subsampling technique. 
   - This work was published at *Nature Machine Intelligence* ’25. And Oral at NeurIPS ’23 Workshop.
 
 #### GeNNius: a GNN model for predicting drug-target interactions
